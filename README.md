@@ -16,13 +16,15 @@ Features
 •	Users can view a list of all available books in the library.
 Installation
 1.	Clone the repository:
-git clone https://github.com/yourusername/library-management-system-kata.git
+git clone https://github.com/rtwashish/Kata-Library-Management-System/tree/main
 2.	Navigate to the project directory:
 cd library-management-system-kata
 3.	Compile the project using your preferred Java IDE or via the command line:
 javac -d bin src/in/sp/backend/*.java
 4.	Run the application:
 java -cp bin in.sp.backend.LibraryManagementSystem
+
+
 Usage
 •	The application will present a menu with options to add, borrow, return, or view books.
 •	Follow the prompts to interact with the system.
@@ -36,4 +38,3 @@ Contributions
 Contributions are welcome! If you have suggestions for improvements or new features, please create an issue or submit a pull request.
 License
 This project is licensed under the MIT License.
-
